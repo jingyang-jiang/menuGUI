@@ -1,0 +1,16 @@
+Coffee 2 Drinks tags:vegetarian sizable:small
+Coffee 5 Drinks tags:vegetarian sizable:medium
+Coffee 12 Drinks tags:vegetarian sizable:large
+Tea 1.75 Drinks tags:vegan,vegetarian
+Beer 2.5 Drinks tags:vegetarian
+Poutine 4.00 mains sizable:small tags:vegetarian
+Poutine 7.00 mains sizable:medium tags:vegetarian
+Poutine 10.00 mains sizable:large special:0.8 tags:vegetarian
+Spaghetti 5.75 mains sizeable:large
+Soup 2.50 Mains tags:vegetarian
+Okonomiyaki 5.00 Mains
+Chips 1.00 Snacks
+Peanuts 1 Snacks tags:vegetarian,vegan
+ChocolateBar 1.75 Snacks
+BrownSugarBoba 5.75 Drinks sizeable:large
+
