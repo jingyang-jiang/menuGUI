@@ -1,3 +1,4 @@
+# *This is a group activity. Individuals are marked on contributions. I received a mark of 100%. Although it might be difficult, I still have access to the private gitlab repo on which we discussed and cooperated.* 
 # Design Activity 7 - Integration Activity
 
 _Start on 18 November, complete by 3 December end of day Montreal time zone. Covers *all* chapters of the book. This activity is to be completed in groups of 7 students. Some components of the activity can be completed individually._
